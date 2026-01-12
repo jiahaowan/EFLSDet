@@ -1,2 +1,2 @@
-#《EFLSDet: Efficient Forward-Looking Sonar Object Detector》
+#EFLSDet: Efficient Forward-Looking Sonar Object Detector
 
